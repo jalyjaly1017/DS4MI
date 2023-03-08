@@ -29,7 +29,7 @@ By the end of this course, you will be able to build your own marketing reportin
 ## How to use?
 There are two types of code in this project, Activity and Exercise. Each activity is a complete practice project, and Exercise is the code snippet used in the example from the textbook. If your time is limited, you can start from practicing each Activity. We provided instructions in Chinese (for example, https://github.com/MAS-KE/DS4MI/blob/master/Lesson01/Activity%201.ipynb) for each Activity. The English description of each Activitiy can be found in the appendix of the original book.
 
-本项目有两类代码，Activity和Exercise。Activity是一个个完整的实践项目，Exercise是正文例子中使用的代码片段。如果你的时间有限，可以从Activity开始实践，我们提供了中文的说明指导(如，[https://github.com/MAS-KE/DS4MI/blob/master/Lesson01/Activity201.ipynb](https://github.com/MAS-KE/DS4MI/blob/master/Lesson01/Activity201.ipynb))，Activity这部分代码的英文说明可以在原书附录里找到。
+本项目有两类代码，Activity和Exercise。Activity是一个个完整的实践项目，Exercise是正文例子中使用的代码片段。如果你的时间有限，可以从Activity开始实践，我们提供了中文的说明指导(如，[https://github.com/MAS-KE/DS4MI/blob/master/Lesson01/Activity201.ipynb](https://github.com/MAS-KE/DS4MI/blob/master/Lesson01/Activity%201.ipynb))，Activity这部分代码的英文说明可以在原书附录里找到。
 
 
 ### Hardware requirements
